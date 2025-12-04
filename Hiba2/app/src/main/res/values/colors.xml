@@ -1,0 +1,22 @@
+<resources>
+    <!-- Brand / primary -->
+    <color name="primary">#2563EB</color>          <!-- Indigo-ish blue -->
+    <color name="primaryVariant">#1D4ED8</color>
+    <color name="secondary">#22C55E</color>        <!-- Green accent -->
+    <color name="accentYellow">#FACC15</color>     <!-- Yellow accent -->
+    <color name="iconBlue">#2563EB</color> <!-- or any blue you like -->
+    <!-- Backgrounds -->
+    <color name="backgroundMain">#F3F4F6</color>   <!-- Light gray -->
+    <color name="bottomBarBackground">#FFFFFF</color>
+
+    <!-- Text -->
+    <color name="textPrimary">#111827</color>      <!-- Almost black -->
+    <color name="textSecondary">#6B7280</color>   <!-- Muted gray -->
+    <color name="textHint">#9CA3AF</color>        <!-- Lighter gray -->
+    <color name="onPrimary">#FFFFFF</color>       <!-- Text on blue cards -->
+
+    <!-- Icons -->
+    <color name="iconPrimary">#111827</color>
+    <color name="iconSecondary">#6B7280</color>
+    <color name="iconAccent">#2563EB</color>
+</resources>
