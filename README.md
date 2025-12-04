@@ -1,6 +1,6 @@
 ### Hiba file:
+<img width="1140" height="1000" alt="image" src="https://github.com/user-attachments/assets/ea87305d-2bd8-4426-968c-5bad65ab0ba1" />
 <img width="1044" height="927" alt="image" src="https://github.com/user-attachments/assets/852c7c00-2302-4bfc-8184-5fb184a8b275" />
-<img width="1118" height="962" alt="image" src="https://github.com/user-attachments/assets/8add6677-d94f-4c05-ace3-408d9126cb9e" />
 
 ### Hiba2 file:
-![Uploading image.png…]()
+<img width="1118" height="962" alt="image" src="https://github.com/user-attachments/assets/5f08731e-3e15-4066-b836-743bfe126600" />
